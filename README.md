@@ -8,7 +8,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class WebDeveloper:
 
     def __init__(self):
         self.name = "Syayid Al Aziz"
