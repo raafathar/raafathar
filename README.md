@@ -22,3 +22,5 @@ class WebDeveloper:
 me = WebDeveloper()
 me.say_hi()
 ```
+</br>
+<p align="center" width="100%"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
