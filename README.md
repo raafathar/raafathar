@@ -20,4 +20,4 @@ me = WebDeveloper()
 me.say_hi()
 ```
 </br>
-<p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="left"><img width="100%" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
