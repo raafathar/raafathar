@@ -16,7 +16,8 @@ me = WebDeveloper()
 me.say_hi()
 ```
 </br>
-<p align="center"><img width="50%" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<!-- <p align="left" style="display: block;"><img width="40%" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p> -->
+<p align="center"><img width="50%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
 <p align="center">Goals for my performance matrix: </p>
 <p align="left"><img width="100%" src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" /></p>
 
